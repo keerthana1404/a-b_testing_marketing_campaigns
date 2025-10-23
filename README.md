@@ -1,7 +1,7 @@
 📊 Project Overview: A/B Testing for Marketing Campaign Efficiency
 
 📝 Background
-As part of a marketing agency's strategic team, our primary goal is to maximize the return on investment (ROI) for our clients' advertising campaigns. This project seeks to identify the more effective advertising platform between Facebook and Google AdWords in terms of clicks, conversions, and overall cost-effectiveness. Understanding which platform offers better performance allows us to strategically allocate resources and optimize advertising strategies to enhance client outcomes.
+This project seeks to identify the more effective advertising platform between Facebook and Google AdWords in terms of clicks, conversions, and overall cost-effectiveness. Understanding which platform offers better performance allows us to strategically allocate resources and optimize advertising strategies to enhance client outcomes.
 
 🎯 Objective
 To determine which advertising platform, Facebook or AdWords, results in higher conversions, better click-through rates, and greater cost-efficiency.
